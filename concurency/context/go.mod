@@ -1,4 +1,4 @@
-module github.com/am3o/golang-by-example/context
+module github.com/am3o/golang-by-example/concurency/context
 
 go 1.20
 
